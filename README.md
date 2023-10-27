@@ -1,4 +1,4 @@
-### Hi there, I'm Divye Darshiny S👋
+# Hi there, I'm Divye Darshiny S 👋
 
 I'm a final year B.Tech Information Technology student at Saranathan College of Engineering with a passion for technology, programming, and web development.
 
@@ -11,6 +11,8 @@ I'm a final year B.Tech Information Technology student at Saranathan College of 
 🎓 **Education**: Final year B.Tech in Information Technology at Saranathan College of Engineering.
 
 💬 **Ask Me About**: Web development, programming languages, project collaboration, or any tech-related inquiries you might have.
+
+📧 **Email**: You can reach out to me at [divyedarshiny@gmail.com](mailto:divyedarshiny@gmail.com).
 
 📫 **Connect with Me**: Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/divyedarshiny/).
 
