@@ -16,6 +16,4 @@ I'm a final year B.Tech Information Technology student at Saranathan College of 
 
 📫 **Connect with Me**: Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/divyedarshiny/).
 
-⚡ **Fun Fact**: I find joy in coding, learning new things, and exploring the ever-evolving tech landscape.
-
 Thank you for visiting my GitHub profile! Let's make the tech world better together. 😊
