@@ -14,6 +14,4 @@ I'm a final year B.Tech Information Technology student at Saranathan College of 
 
 📧 **Email**: You can reach out to me at [divyedarshiny@gmail.com](mailto:divyedarshiny@gmail.com).
 
-[LinkedIn](https://www.linkedin.com/in/divyedarshiny/)
-
-Thank you for visiting my GitHub profile! Let's make the tech world better together. 😊
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-divyedarshiny-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/divyedarshiny/)
