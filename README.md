@@ -12,6 +12,4 @@ I'm a final year B.Tech Information Technology student at Saranathan College of 
 
 💬 **Ask Me About**: Web development, programming languages, project collaboration, or any tech-related inquiries you might have.
 
-📧 **Email**: You can reach out to me at [divyedarshiny@gmail.com](mailto:divyedarshiny@gmail.com).
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-divyedarshiny-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/divyedarshiny/)
+Let's Connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/divyedarshiny/)
