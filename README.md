@@ -12,7 +12,8 @@ I'm a final year B.Tech Information Technology student at Saranathan College of 
 
 💬 **Ask Me About**: Web development, programming languages, project collaboration, or any tech-related inquiries you might have.
 
-[![Email](https://img.shields.io/badge/Email-divyedarshiny%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:divyedarshiny@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-divyedarshiny-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/divyedarshiny/)
+📧 **Email**: You can reach out to me at [divyedarshiny@gmail.com](mailto:divyedarshiny@gmail.com).
+
+[LinkedIn](https://www.linkedin.com/in/divyedarshiny/)
 
 Thank you for visiting my GitHub profile! Let's make the tech world better together. 😊
