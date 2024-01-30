@@ -13,5 +13,6 @@ I'm a final year B.Tech Information Technology student at Saranathan College of 
 💬 **Ask Me About**: Web development, programming languages, project collaboration, or any tech-related inquiries you might have.
 
 Let's Connect! 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/divyedarshiny/) [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium)](https://medium.com/@divyedarshiny)
+
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/divyedarshiny/) [![MEDIUM](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium)](https://medium.com/@divyedarshiny)
 
