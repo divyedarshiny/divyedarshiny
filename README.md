@@ -14,5 +14,6 @@ I'm a final year B.Tech Information Technology student at Saranathan College of 
 
 Let's Connect! 
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/divyedarshiny/) [![MEDIUM](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium)](https://medium.com/@divyedarshiny)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/divyedarshiny/)    
+[![MEDIUM](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium)](https://medium.com/@divyedarshiny)
 
